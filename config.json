@@ -1,0 +1,9 @@
+{
+  "google_vision_api_key": "",
+  "google_vision_confidence": 0.6,
+  "local_server_host": "localhost",
+  "local_server_port": 4404,
+  "ocr_method": "ztranslate",
+  "text_replacements": [],
+  "ztranslate_api_key": ""
+}
